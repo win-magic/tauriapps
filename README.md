@@ -1,2 +1,3 @@
 # tauriapps
 tauriapps
+## detail
